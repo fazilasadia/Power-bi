@@ -1,7 +1,6 @@
-![image alt](https://github.com/fazilasadia/Power-bi/blob/main/HR Attrition/hrattrition.PNG)
+![image alt](https://github.com/fazilasadia/Power-bi/blob/main/HR%20Attrition/hrattrition.PNG)
 ![image alt](https://github.com/fazilasadia/Power-bi/blob/main/ChildMortality/Capture.PNG)
 ![image_alt](https://github.com/fazilasadia/Power-bi/blob/main/sales/devbi-store.PNG?raw=true)
 
 ![image_alt](https://github.com/fazilasadia/Power-bi/blob/main/sales/sales.PNG?raw=true)
-
 ![image_alt](https://github.com/fazilasadia/Power-bi/blob/main/hospital/ER.PNG?raw=true)
